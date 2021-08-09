@@ -1,5 +1,7 @@
 # hello-vuepress
 
+[![Deploy to IONOS](https://images.ionos.space/deploy-now-icons/deploy-to-ionos-btn.svg)](https://ionos.space/setup?repo=https://github.com/ionos-deploy-now/hello-vuepress)
+
 Starter template for VuePress
 
 ## Setup
@@ -25,7 +27,3 @@ Build static pages in `src/.vuepress/dist` folder
 ```bash
 npm run build
 ```
-
-## 💫 Deploy
-
-[![Deploy to IONOS](https://images.ionos.space/deploy-now-icons/deploy-to-ionos-btn.svg)](https://ionos.space/setup?repo=https://github.com/ionos-deploy-now/hello-vuepress)
