@@ -1,13 +1,13 @@
 ---
 distFolder: src/.vuepress/dist
 setup:
-- name: Setup Node.js v10.16.3
+- name: Setup project
   action: actions/setup-node@v1
   properties:
-    node-version: v10.16.3
+    node-version: v12.22.3
 prepare:
-  name: Prepare project build environment
+  name: Prepare project environment
   command: npm ci
 build:
-  name: Build VuePress
+  name: Build project
   command: npm run build
