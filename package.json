@@ -8,6 +8,9 @@
     "build": "vuepress build docs"
   },
   "license": "MIT",
+  "engines": {
+    "node": ">=16"
+  },
   "devDependencies": {
     "vuepress": "^1.9.7"
   }
