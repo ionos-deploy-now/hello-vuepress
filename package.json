@@ -9,7 +9,7 @@
   },
   "license": "MIT",
   "engines": {
-    "node": ">=16"
+    "node": "16.x"
   },
   "devDependencies": {
     "vuepress": "^1.9.7"
